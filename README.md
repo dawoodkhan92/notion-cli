@@ -1,5 +1,7 @@
 # ntn — Notion CLI
 
+![ntn — Notion CLI demo](docs/notion-cli-demo.png)
+
 > Fast terminal access to any Notion workspace. Built for AI-assisted workflows.
 
 ## Why this exists
